@@ -1,11 +1,6 @@
 {
   "tutores": [
     {
-      "id": "1",
-      "nome": "Ana",
-      "telefone": "47999990000"
-    },
-    {
       "id": "2",
       "nome": "Carlos",
       "telefone": "47988880000"
